@@ -146,9 +146,9 @@ const argv = yargs
   .option(
     'return', {
       alias: 'r',
-      description: 'Return campaigns definions directory',
+      description: 'Return campaigns compiled definions directory',
       type: 'string',
-      default: './return_campaigns',
+      default: './build/return_campaigns',
     }
   )
   .help().alias('help', 'h')
