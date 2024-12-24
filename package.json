@@ -9,8 +9,8 @@
   },
   "scripts": {
     "all": "npm-run-all clean verify validate:schema definitions sync",
-    "mini": "npm-run-all build:return-to build:standalone build:all-campaigns build:return-to build:campaign-logs validate:schema definitions sync",
-    "build": "npm-run-all build:return-to build:standalone build:all-campaigns build:return-to build:campaign-logs build:i18n",
+    "mini": "npm-run-all build:return-to build:standalone build:all-campaigns build:campaign-logs validate:schema definitions sync",
+    "build": "npm-run-all build:return-to build:standalone build:all-campaigns build:campaign-logs build:i18n",
     "build:all-campaigns": "node ./scripts/build.js",
     "build:campaign-logs": "node ./scripts/generate-campaign-logs.js",
     "build:return-to": "node ./scripts/generateReturnCampaigns.js",
