@@ -211,7 +211,7 @@ msgstr ""
 "<i>Per esempio: Bob indaga in un luogo e ci sono 2 segnalini [frost] nel sacchetto del caos. Durante il suo primo tentativo di indagine, Bob rivela un segnalino [frost] che riduce di 1 il suo valore di abilità e gli richiede di rivelare 1 altro segnalino. Il secondo segnalino che rivela è un +1, per in un totale di 0 da entrambi i segnalini. Bob ha successo! Galvanizzato, Bob tenta di indagare nuovamente. Questa volta rivela un segnalino [frost], seguito da un secondo segnalino [frost]. Bob deve immediatamente smettere di rivelare segnalini e risolve l'indagine come un fallimento automatico.</i>"
 
 msgid "No more than eight total [frost] tokens can be included in the chaos bag and/or sealed on cards in play at any given time."
-msgstr "Non possono mai essere inclusi nel sacchetto del caos e/o sigillati du carte in gioco più di 8 segnalini [frost] in totale in qualsiasi momento."
+msgstr "Non possono mai essere inclusi nel sacchetto del caos e/o sigillati su carte in gioco più di 8 segnalini [frost] in totale in qualsiasi momento."
 
 msgid "A [frost] token revealed outside of a skill test has no effect on its own unless otherwise specified by a card effect."
 msgstr "I segnalini [frost] rivelati al di fuori delle prove di abilità non hanno effetto, salvo diversamente specificato dall'effetto di una carta."

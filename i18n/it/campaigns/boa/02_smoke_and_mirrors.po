@@ -79,7 +79,7 @@ msgid "Set each copy of the Mark of Elokoss weakness aside, out of play."
 msgstr "Mettete da parte ogni copia della debolezza Marchio di Elokoss, fuori dal gioco."
 
 msgid "<i>Strategy Tip: Time is short. During this scenario, investigators may either defeat suspects or trigger their codex entries to interview them (See </i>\"The Codex\"<i> below). How you choose to approach this scenario (with violence or interrogation) will have an effect on the challenges you face later in this campaign! Also remember that resigning is not losing: you may choose to abandon your search at any time.</i>"
-msgstr "<i>Consiglio Strategico: Il tempo stringe. Durante questo scenario, gli investigatori possono sconfiggere i sospettati o attivare le loro voci del codex per interrogarli (Vedete <i>\"Il Codex\"</i> di seguito). Il modo in cui sceglierete di affrontare questo scenario (con la violenza o con l'interrogatorio) avrà un effetto sulle sfide che affronterete più avanti in questa campagna! Ricordate inoltre che abbandonare non significa perdere: potete scegliere di interrompere la ricerca in qualsiasi momento.</i>"
+msgstr "<i>Consiglio Strategico: Il tempo stringe. Durante questo scenario, gli investigatori possono sconfiggere i sospettati o attivare le loro voci del codex per interrogarli (Vedete </i>\"Il Codex\"<i> di seguito). Il modo in cui sceglierete di affrontare questo scenario (con la violenza o con l'interrogatorio) avrà un effetto sulle sfide che affronterete più avanti in questa campagna! Ricordate inoltre che abbandonare non significa perdere: potete scegliere di interrompere la ricerca in qualsiasi momento.</i>"
 
 msgid "Add cards to deck"
 msgstr "Aggiungere carte al mazzo"
